@@ -1,16 +1,16 @@
-# Владимир — Infrastructure / Linux Engineer
+# Владимир — Infrastructure Engineer | DevOps / Platform Engineering
 
-Инженер инфраструктуры с коммерческим опытом эксплуатации и развития инфраструктуры двух MMORPG-проектов. Занимаюсь администрированием Linux-систем, виртуализацией, контейнеризацией, CI/CD, мониторингом, автоматизацией инфраструктурных задач и устранением инцидентов.
+Инженер инфраструктуры с коммерческим опытом эксплуатации и развития географически распределённой production-инфраструктуры двух MMORPG-проектов. Работаю с Linux, виртуализацией, контейнеризацией, CI/CD, мониторингом и автоматизацией эксплуатационных задач, участвую в диагностике и устранении production-инцидентов.
 
 Развиваюсь в направлении **DevOps / Platform Engineering**. Интересуюсь автоматизацией, Kubernetes, Infrastructure as Code и построением отказоустойчивой инфраструктуры.
 
 ## Технологии
 
-**Коммерческий опыт:** Linux, KVM / Proxmox, Docker / Harbor, Jenkins, Zabbix, Bash, networking, backup & recovery.
+**Коммерческий опыт:** Linux, KVM / Proxmox, Docker / Harbor, Jenkins / Groovy, Zabbix, Bash, networking, backup & recovery.
 
 **Учебные проекты и практика:** Kubernetes, Terraform, GitLab CI/CD.
 
-**Текущие направления обучения:** Git, Kubernetes, Ansible.
+**Текущие направления обучения:** Kubernetes, Ansible.
 
 ## Проекты
 
