@@ -10,8 +10,6 @@
 
 **Учебные проекты и практика:** Kubernetes, Terraform, GitLab CI/CD.
 
-**Текущие направления обучения:** Kubernetes, Ansible.
-
 ## Проекты
 
 ### Dumpling Store — DevOps Diploma Project
