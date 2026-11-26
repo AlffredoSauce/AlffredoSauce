@@ -1,4 +1,4 @@
-# Владимир — Infrastructure Engineer | DevOps / Platform Engineering
+# Владимир — Infrastructure / Linux Engineer | Automation, CI/CD, DevOps
 
 Инженер инфраструктуры с коммерческим опытом эксплуатации географически распределённой production-инфраструктуры двух MMORPG-проектов. Работаю с Linux, виртуализацией, контейнеризацией, CI/CD, мониторингом и автоматизацией.
 
